@@ -1,0 +1,5 @@
+jQuery makes it so simple to interact with the DOM and Ajax.
+
+Without it, you have to right a lot more lines of JavaScript.
+
+Tony Brown
