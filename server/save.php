@@ -2,7 +2,7 @@
 
   # we can do anything that we want to here
   # like saving the information a database, doh.
-#echo $_POST['content'] . ' from PHP';
+echo $_POST['content'] . ' from PHP';
 
 $content = $_POST['content'];
 
